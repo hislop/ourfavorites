@@ -2,3 +2,4 @@ chocolate
 eggplant
 grapefruit
 popcorn
+peanut butter
